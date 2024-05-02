@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raychannudam/Documents/pypackage/mlruns/0/49a29958669c4ba895f296f33d3f4133/artifacts
+end_time: 1714620341198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49a29958669c4ba895f296f33d3f4133
+run_name: receptive-goat-741
+run_uuid: 49a29958669c4ba895f296f33d3f4133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714620339262
+status: 3
+tags: []
+user_id: raychannudam
